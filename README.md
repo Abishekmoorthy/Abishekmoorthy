@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekmoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="abishekmoorthy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abishek" target="blank"><img src="https://img.shields.io/twitter/follow/abishek?logo=twitter&style=for-the-badge" alt="abishek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abishek59787942" target="blank"><img src="https://img.shields.io/twitter/follow/abishek?logo=twitter&style=for-the-badge" alt="abishek" /></a> </p>
 
 - 🔭 I’m currently working on an **industrial project at Sony focused on Semantics and Knowledge Graph**
 
