@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/817403401142635505/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekmoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="abishekmoorthy" /> </p>
 
