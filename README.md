@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | IoT Security Researcher | Knowledge Engineering Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Sc+Computer+Science+Student;Open+Source+Contributor;Undergraduate+Researcher+in+Semantic+Technologies" alt="Header Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Open+Source+Contributor;Undergraduate+Researcher+in+Semantic+Technologies" alt="Header Typing SVG">
 </div>
 
 ---
