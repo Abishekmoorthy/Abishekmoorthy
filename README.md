@@ -10,9 +10,6 @@
 </div>
 
 ---
-
-### 🔭 Current Projects
-
 - 🔭 I’m currently working on an **industrial project at Sony focused on Semantics and Knowledge Graph**
 
 - 🌱 I’m currently learning **about Evaluating IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures.**
