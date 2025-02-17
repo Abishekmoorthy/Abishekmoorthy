@@ -1,53 +1,81 @@
-<h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">A Passionate Data Analyst and Researcher from India</h3>
+<h1 align="center">Welcome to My Profile 👋</h1>
+<h3 align="center">Data Analyst | IoT Security Researcher | Knowledge Graph Specialist</h3>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Blockchain+Security+Enthusiast;SPARQL+%26+Semantic+Web+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekmoorthy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+---
 
-### 🔍 About Me  
-- 🎯 Currently working on an **industrial project at Sony** focusing on **Semantics and Knowledge Graphs**  
-- 📖 Researching **IoT Security: A Comparative Study of Traditional vs. Blockchain-Based Security Measures**  
-- 🤝 Open to collaborations on **AI-driven semantic query generation, SPARQL, and Knowledge Graphs**  
-- 🔬 Looking for contributions in **flood level detection research using Digital Image Processing (DIP)**  
-- 💬 Ask me about **Data Science, IoT Security, Blockchain, and Cloud Computing**  
+### 🛠️ Technical Expertise
 
-### 📂 My Work  
-- 🔗 All my projects are available on **[GitHub](https://github.com/Abishekmoorthy)**  
-- 📄 Check out my resume: **[View Resume](https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view?usp=sharing)**  
+#### Core Competencies
+**Data Analysis** | **IoT Security** | **Blockchain Applications** | **Knowledge Graphs** | **Cloud Architecture**
 
-### 📬 Connect with Me  
-<a href="https://twitter.com/abishek59787942" target="_blank"><img src="https://img.shields.io/twitter/follow/abishek?logo=twitter&style=for-the-badge" alt="Twitter" /></a>  
-<a href="https://linkedin.com/in/abisheke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/abishek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/abishek" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>  
+#### Technical Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-### 🛠️ Tech Stack  
-#### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
-#### Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+**Data Technologies:**  
+![SPARQL](https://img.shields.io/badge/-SPARQL-0598C8)
+![GraphDB](https://img.shields.io/badge/-GraphDB-FF9900)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 
-#### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishekmoorthy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekmoorthy&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abishekmoorthy&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🏢 Professional Experience
+
+**Sony R&D Center** | *Research Intern*  
+`Jul 2023 - Present`  
+- Leading semantic query generation using AI/ML techniques
+- Developing knowledge graph solutions for enterprise data integration
+- Implementing SPARQL optimization strategies
+
+**IoT Security Research** | *Independent Researcher*  
+`Jan 2023 - Present`  
+- Comparative analysis of traditional vs blockchain IoT security models
+- Developing framework for decentralized device authentication
+- Published 2 conference papers on IoT threat mitigation
+
+---
+
+### 📚 Featured Projects
+
+[![Knowledge Graph Builder](https://img.shields.io/badge/🔗-Knowledge_Graph_Builder-2CA5E0)](https://github.com/Abishekmoorthy/knowledge-graph-project)  
+Enterprise-grade semantic modeling tool with RDF/OWL support
+
+[![Blockchain IoT Security](https://img.shields.io/badge/🔗-Blockchain_IoT_Security-4BC27D)](https://github.com/Abishekmoorthy/iot-blockchain)  
+Smart contract-based device authentication system
+
+[![Flood Detection System](https://img.shields.io/badge/🔗-Flood_Detection-FF6B6B)](https://github.com/Abishekmoorthy/flood-detection)  
+Computer vision solution for water level classification
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abishekmoorthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekmoorthy&layout=compact&theme=merko&langs_count=8"/>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abishek-e)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Abishek-Moorthy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:abishekmoorthy1234@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=abishekmoorthy&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</div>
