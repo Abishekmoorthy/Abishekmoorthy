@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Insights;Semantic+Web+Developer" alt="Header Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Insights;Semantic+Enthusiast" alt="Header Typing SVG">
 </p>
 
 <div align="center">
