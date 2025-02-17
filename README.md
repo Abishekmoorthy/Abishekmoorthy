@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">Data Analyst | IoT Security Researcher | Knowledge Graph Specialist</h3>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Insights;Blockchain+Enthusiast;Semantic+Web+Developer" alt="Header Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Insights;Semantic+Web+Developer" alt="Header Typing SVG">
 </p>
 
 <div align="center">
@@ -13,12 +13,21 @@
 
 ### 🔭 Current Projects
 
-- **Sony Industrial Project**  
-  Developing semantic query systems using knowledge graphs
-- **IoT Security Research**  
-  Comparing traditional vs blockchain security frameworks
-- **Flood Detection System**  
-  Building DIP-based classification models
+- 🔭 I’m currently working on an **industrial project at Sony focused on Semantics and Knowledge Graph**
+
+- 🌱 I’m currently learning **about Evaluating IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures.**
+
+- 👯 I’m looking to collaborate on **AI-driven semantic query generation, SPARQL, and Knowledge Graphs**
+
+- 🤝 I’m looking for help with **doing research on flood level detection (low, medium, high) using DIP concepts**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abishekmoorthy](https://github.com/Abishekmoorthy)
+
+- 💬 Ask me about **Data Science,IoT security,or Blockchain-based security measures,Cloud Computing**
+
+- 📫 How to reach me **abishekmoorthy1234@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view?usp=sharing](https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view?usp=sharing)
 
 ---
 
