@@ -56,7 +56,6 @@
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform">
     </td>
     <td align="center">
       <strong>Web Development</strong><br>
@@ -75,13 +74,7 @@
       <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif">
       <img src="https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto">
     </td>
-    <td align="center">
-      <strong>Blockchain</strong><br>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum">
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?logo=hyperledger">
-      <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs">
-      <img src="https://img.shields.io/badge/Ganache-36D7B7?logo=ethereum">
-    </td>
+   
   </tr>
   <tr>
     <td align="center">
