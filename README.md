@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Insights;Semantic+Enthusiast" alt="Header Typing SVG">
