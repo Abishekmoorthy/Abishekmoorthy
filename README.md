@@ -12,10 +12,15 @@
 ---
 
 ## 🔥 Current Focus
-- 🔭 Industrial project at **Sony** on Semantics and Knowledge Graphs
-- 🌱 Researching **IoT Security** with blockchain solutions
-- 🤝 Seeking collaborators for **AI-driven semantic query generation**
-- 💡 Exploring **flood detection** using DIP concepts
+- 🔭 I’m currently working on an **industrial project at Sony focused on Semantics and Knowledge Graph**
+
+- 🌱 I’m currently learning **about Evaluating IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures.**
+
+- 👯 I’m looking to collaborate on **AI-driven semantic query generation, SPARQL, and Knowledge Graphs**
+
+- 🤝 I’m looking for help with **doing research on flood level detection (low, medium, high) using DIP concepts**
+
+- 💬 Ask me about **Data Science,IoT security,or Blockchain-based security measures,Cloud Computing**
 
 ---
 
