@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">Data Analyst & Semantic Technology Specialist</h3>
+<h3 align="center">Data Analyst & Semantic Technology Enthusiast</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Actionable+Insights;Semantic+Technology+Enthusiast;IoT+Security+Researcher" alt="Header Typing SVG">
