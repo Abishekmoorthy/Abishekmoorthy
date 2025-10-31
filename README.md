@@ -1,118 +1,110 @@
-<h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h1 align="center">👋 Abishek Moorthy</h1>
+<h3 align="center">Data Analyst | Semantic Technology Specialist | IoT Security Researcher</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Actionable+Insights;Semantic+Technology+Enthusiast;IoT+Security+Researcher" alt="Header Typing SVG">
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" alt="Coding Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Data+Analyst+Specializing+in+Semantic+Technologies;IoT+Security+Researcher;Knowledge+Graph+Enthusiast" alt="Professional Header">
 </div>
 
 ---
 
-## 🔥 Current Focus
-- 🔭 I’m currently working on an **industrial project at Sony focused on Semantics and Knowledge Graph**
+## 🚀 Professional Overview
 
-- 🌱 I’m currently learning **about Evaluating IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures.**
+Data Analyst with expertise in semantic technologies, IoT security, and data-driven decision making. Currently contributing to industrial projects at Sony focusing on Knowledge Graphs and semantic query generation. Passionate about transforming complex data into actionable insights through advanced analytics and machine learning.
 
-- 👯 I’m looking to collaborate on **AI-driven semantic query generation, SPARQL, and Knowledge Graphs**
+## 💼 Core Competencies
 
-- 🤝 I’m looking for help with **doing research on flood level detection (low, medium, high) using DIP concepts**
+### 🔍 Data & Analytics
+- **Data Analysis**: Python, Pandas, NumPy, Statistical Analysis
+- **Machine Learning**: Scikit-learn, TensorFlow, Predictive Modeling
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Big Data**: Apache Spark, Hadoop, Data Warehousing
 
-- 💬 Ask me about **Data Science,IoT security,or Blockchain-based security measures,Cloud Computing**
+### 🌐 Semantic Technologies
+- **Knowledge Graphs**: RDF, OWL, SPARQL, Protégé
+- **Semantic Query**: Natural Language to SPARQL conversion
+- **Ontology Development**: Domain modeling, Reasoning, Inference
 
----
+### ☁️ Cloud & Infrastructure
+- **Cloud Platforms**: AWS, Google Cloud Platform
+- **Containerization**: Docker, Kubernetes
+- **IoT Platforms**: AWS IoT, Azure IoT Hub
 
-## 🛠️ Technical Stack
+### 🔐 Security & Blockchain
+- **IoT Security**: Device authentication, Secure communication
+- **Blockchain**: Smart Contracts, Solidity, Decentralized security
+- **Cryptography**: Encryption, PKI, Security protocols
 
-### 💻 Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+## 🛠 Technical Proficiencies
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Semantic Technologies
-![SPARQL](https://img.shields.io/badge/SPARQL-0598C8?logo=rdf)
-![Protégé](https://img.shields.io/badge/Protégé-0078D4?logo=protege)
-![RDF](https://img.shields.io/badge/RDF-003B6F?logo=rdf)
-![OWL](https://img.shields.io/badge/OWL-0078D4?logo=owl)
-
-### 🔌 IoT & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif)
-![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipsemosquitto)
-
-### 🗄️ Database Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j)
-
----
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abishekmoorthy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abishekmoorthy&theme=radical&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekmoorthy&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abishek-e">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+<div align="center">
+  
+  <a href="https://github.com/abishekmoorthy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abishekmoorthy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekmoorthy&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=00000000"/>
   </a>
-  <a href="mailto:abishekmoorthy1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://twitter.com/abishek59787942">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/abishek">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode">
-  </a>
-</p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekmoorthy&theme=algolia&hide_border=true&background=00000000" alt="GitHub Streak" />
+  
+</div>
+
+## 🎯 Current Focus Areas
+
+- **Industrial Knowledge Graph Development** at Sony
+- **Comparative IoT Security Research**: Traditional vs Blockchain-based approaches
+- **Semantic Query Generation** using AI/ML techniques
+- **Flood Level Detection** using Digital Image Processing
+
+## 📫 Professional Connections
 
 <div align="center">
-  <a href="https://github.com/Abishekmoorthy">
-    <img src="https://img.shields.io/badge/Projects_Showcase-181717?logo=github&logoColor=white&style=for-the-badge" alt="Projects">
-  </a>
-  <a href="https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge" alt="Resume">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-e)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekmoorthy1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your-Profile)
+
+</div>
+
+## 📋 Professional Documents
+
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/📄_View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_DFeqWGG7-85EUAeg6-cpMB31u-Up_-S/view?usp=sharing)
+[![Projects](https://img.shields.io/badge/💼_Projects_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abishekmoorthy?tab=repositories)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abishekmoorthy&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
+  
+  <img src="https://komarev.com/ghpvc/?username=abishekmoorthy&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <p>📧 <strong>Let's connect and discuss data, semantics, and security solutions!</strong></p>
+  
 </div>
