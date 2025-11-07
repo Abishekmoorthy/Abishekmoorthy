@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Turning+Data+into+Actionable+Insights;Semantic+Technology+Enthusiast;IoT+Security+Researcher" alt="Header Typing SVG">
-</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" alt="Coding Animation">
